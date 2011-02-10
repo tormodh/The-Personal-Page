@@ -16,6 +16,7 @@ from Scott Robbin. Gracias.
 http://srobbin.com/blog/jquery-plugins/jquery-backstretch/
 
 This fork uses a modified [Human Facebook Default Avatar - Alex](http://www.behance.net/gallery/Human-Facebook-Default-Avatar/614675) by [TWO](http://www.behance.net/helloiamtwo) - under a [CC BY-NC-SA 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 =============================
 
 This simple one-page website is a way for people to have a very quick and easy personable website that aggregates your activity and positions a simple logo, a portrait and some description text in a nicely-formatted manner. This is licensed under the MIT and GPL licenses. 
