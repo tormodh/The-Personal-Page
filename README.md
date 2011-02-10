@@ -1,18 +1,16 @@
 =============================
 
-> The Personal Page
-> Version 1.1
-> February 10, 2010
-> Modified by Tormod Haugen
-> Originally created by Naz Hamid
-> Original: www.nazhamid.com
-> License: MIT/GPL
+> The Personal Page   
+> Version 1.1   
+> February 10, 2010   
+> Modified by Tormod Haugen   
+> Originally created by Naz Hamid   
+> Original: www.nazhamid.com   
+> License: MIT/GPL   
 > 
-> Inspired by / Forked from: https://github.com/weightshift/The-Personal-Page
+> Inspired by / Forked from: https://github.com/weightshift/The-Personal-Page   
 > 
-> The site makes use of the jQuery Backstretch plugin 
-> from Scott Robbin. Gracias.
-> http://srobbin.com/blog/jquery-plugins/jquery-backstretch/
+> The site makes use of the [jQuery Backstretch plugin](http://srobbin.com/blog/jquery-plugins/jquery-backstretch/) from Scott Robbin. Gracias.
 >
 > This fork uses a modified [Human Facebook Default Avatar - Alex](http://www.behance.net/gallery/Human-Facebook-Default-Avatar/614675) by [TWO](http://www.behance.net/helloiamtwo) under a [CC BY-NC-SA 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
